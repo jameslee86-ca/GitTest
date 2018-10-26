@@ -1,4 +1,6 @@
 
 public class MyGitTester {
-  System.out.println("This is a test only!");
+  public static void main(String[] args){
+    System.out.println("This is a Git test only!");
+  }
 }
